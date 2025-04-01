@@ -1,4 +1,4 @@
-package modsls
+package config
 
 /*
 连接数据库的配置，模版固定下来，只改IP 用户名等一些东西就好了

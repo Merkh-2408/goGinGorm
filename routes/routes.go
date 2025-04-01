@@ -1,11 +1,11 @@
-package config
+package routes
 
 /*
 按照MVC原理
 把路由抽象出来，不要写到MAIN文件里面
 **/
 import (
-	"gingorm/api"
+	"GoGinGorm/api"
 
 	"github.com/gin-gonic/gin"
 )
